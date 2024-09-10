@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1061" dy="2739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="2866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,14 +139,57 @@
         <mxCell id="YIZn3OgmK-Fc1lFr46rT-39" value="Paciente acessa sua conta e solicita o cancelamento." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=16;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#00c2a8;strokeWidth=0.8;lucidId=hKJ_4CayDnIb;" vertex="1" parent="1">
           <mxGeometry x="1177.5" y="160" width="180" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIZn3OgmK-Fc1lFr46rT-43" target="YIZn3OgmK-Fc1lFr46rT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIZn3OgmK-Fc1lFr46rT-43" value="Sistema libera o horário e&amp;nbsp; notifica o médico." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=16;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#00c2a8;strokeWidth=0.8;lucidId=hKJ_4CayDnIb;" vertex="1" parent="1">
           <mxGeometry x="1177.5" y="320" width="180" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YIZn3OgmK-Fc1lFr46rT-55" target="YIZn3OgmK-Fc1lFr46rT-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIZn3OgmK-Fc1lFr46rT-55" value="Verificação" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=default;spacing=9;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#9391ff;strokeWidth=0.8;lucidId=uJJ_8ado.Bnw;" vertex="1" parent="1">
-          <mxGeometry x="1192" y="500" width="143" height="90" as="geometry" />
+          <mxGeometry x="910" y="329" width="143" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YIZn3OgmK-Fc1lFr46rT-57" value="Paciente possui uma conta?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=16.7;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=1.5;lucidId=DyJ_rzGWwYGw;" vertex="1" parent="1">
           <mxGeometry x="268.25" y="-638.25" width="159.5" height="140.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIZn3OgmK-Fc1lFr46rT-62" target="YIZn3OgmK-Fc1lFr46rT-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-62" value="Paciente acessa sua conta e visualiza suas consultas agendadas, passadas e canceladas." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=16;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#00c2a8;strokeWidth=0.8;lucidId=hKJ_4CayDnIb;" vertex="1" parent="1">
+          <mxGeometry x="544" y="314" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.468;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YIZn3OgmK-Fc1lFr46rT-65" target="YIZn3OgmK-Fc1lFr46rT-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="240" as="targetPoint" />
+            <mxPoint x="372" y="268" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-79" value="Medico" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIZn3OgmK-Fc1lFr46rT-78">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-65" value="Gerenciamento" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=default;spacing=9;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#9391ff;strokeWidth=0.8;lucidId=uJJ_8ado.Bnw;" vertex="1" parent="1">
+          <mxGeometry x="322" y="329" width="143" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-80" value="Visualiza sua agenda, confirma presença de pacientes e registra informações sobre a consulta." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=16;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#00c2a8;strokeWidth=0.8;lucidId=hKJ_4CayDnIb;" vertex="1" parent="1">
+          <mxGeometry x="45" y="90" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YIZn3OgmK-Fc1lFr46rT-84" source="YIZn3OgmK-Fc1lFr46rT-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="250" as="targetPoint" />
+            <mxPoint x="404" y="339" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-83" value="Administrador" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIZn3OgmK-Fc1lFr46rT-82">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIZn3OgmK-Fc1lFr46rT-84" value="Gerencia cadastros, relatórios, configurações do sistema." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=16;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#00c2a8;strokeWidth=0.8;lucidId=hKJ_4CayDnIb;" vertex="1" parent="1">
+          <mxGeometry x="28" y="540" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
